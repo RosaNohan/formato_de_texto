@@ -1,0 +1,37 @@
+/* ejercicio_clases_ids_css_starwars.css */
+
+/* clase para el imperio */
+.impire {
+    background-color: red;
+}
+
+/* clase para los rebeldes */
+.rebels {
+    background-color: blue;
+}
+
+/*ID para darth_vader */
+#darthVader {
+    font-size: 22px;
+}
+
+/*ID para Luke*/
+#Luke {
+    font-style: italic;
+}
+
+/*clase para los soldados*/
+.soldados {
+    border: 2px groove black;
+    letter-spacing: 2px;
+}
+
+/*clase para las und. de apoyo*/
+.apoyo {
+    text-align: center;
+}
+
+/*clase para las naves*/
+.nave {
+    text-transform: uppercase;
+}
